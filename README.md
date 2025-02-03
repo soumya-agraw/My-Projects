@@ -1,9 +1,8 @@
-# My-Projects
 # 🗺 Soumya's Portfolio
 
 Welcome to my data portfolio! You can find all my projects here.
 
-## 📚 Table of Contents
+## 📚 Skills
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
