@@ -11,7 +11,7 @@ Welcome to my data portfolio! You can find all my projects here.
 # Data Engineering
 
 | Project Link | Tools | Project Description | 
-|---|---|---|---|
+|---|---|---|
 | 🚗 [Uber Taxi]() | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 | 🛍️ [Retail Strategy and Store Analytics](https://github.com/soumya-agraw/Retail-Strategy-and-Store-Analytics) | Python, Jupyter Notebook, Tableaau | analyze customer data and transactions from various retail stores. By understanding who the chip buyers are and how they shop, we can gain valuable insights to inform our supermarket's future chip category strategy. |
 
